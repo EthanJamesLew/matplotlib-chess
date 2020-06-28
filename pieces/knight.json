@@ -1,0 +1,10 @@
+{
+ "piece_name" : "Knight",
+ "extensible" : false,
+ "blockable" : false,
+ "capturable" : true,
+ "capture_group" : false,
+ "advance_group" : [[2, 1], [1, 2]],
+ "x_symmetry" : true,
+ "y_symmetry" : true
+}

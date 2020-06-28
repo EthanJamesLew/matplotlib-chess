@@ -1,0 +1,10 @@
+{
+  "piece_name" : "Rook",
+  "extensible" : true,
+  "blockable" : true,
+  "capturable" : true,
+  "capture_group" : false,
+  "advance_group" : [[1, 0]],
+  "x_symmetry" : true,
+  "y_symmetry" : true
+}

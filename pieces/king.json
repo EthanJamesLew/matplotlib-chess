@@ -1,0 +1,10 @@
+{
+  "piece_name" : "King",
+  "extensible" : false,
+  "blockable" : true,
+  "capturable" : false,
+  "capture_group" : false,
+  "advance_group" : [[1, 1], [1, 0], [0, 1]],
+  "x_symmetry" : true,
+  "y_symmetry" : true
+}

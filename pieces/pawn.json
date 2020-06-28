@@ -1,0 +1,10 @@
+{
+  "piece_name" : "Pawn",
+  "extensible" : false,
+  "blockable" : true,
+  "capturable" : true,
+  "capture_group" : [[1, 1]],
+  "advance_group" : [[0, 1]],
+  "x_symmetry" : false,
+  "y_symmetry" : false
+}
